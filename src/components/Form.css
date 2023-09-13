@@ -1,0 +1,20 @@
+.add-task {
+    width: 7rem;
+    height: 1.8rem;
+    margin-top: 1.2rem;
+    margin-right: 2rem;
+    padding: .3rem;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    box-shadow: #64ceff 0px 0px 10px;
+    cursor: pointer;
+}
+
+.error {
+    margin-top: .4rem;
+    margin-left: -8.5rem;
+    font-size: .8rem;
+    color: #f30f0f;
+    border-radius: 7px;
+}
